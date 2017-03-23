@@ -1,0 +1,48 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .vs/ACE/v14/.suo
+#	modified:   ACE.VC.db
+#	modified:   ACE/ACE.cpp
+#	modified:   ACE/ACE.vcxproj
+#	modified:   ACE/Debug/ACE.log
+#	modified:   ACE/Debug/ACE.obj
+#	modified:   ACE/Debug/ACE.pch
+#	modified:   ACE/Debug/ACE.tlog/ACE.lastbuildstate
+#	modified:   ACE/Debug/ACE.tlog/CL.command.1.tlog
+#	modified:   ACE/Debug/ACE.tlog/CL.read.1.tlog
+#	modified:   ACE/Debug/ACE.tlog/CL.write.1.tlog
+#	modified:   ACE/Debug/ACE.tlog/link.command.1.tlog
+#	modified:   ACE/Debug/ACE.tlog/link.read.1.tlog
+#	modified:   ACE/Debug/ACE.tlog/link.write.1.tlog
+#	modified:   ACE/Debug/stdafx.obj
+#	modified:   ACE/Debug/vc140.idb
+#	modified:   ACE/Debug/vc140.pdb
+#	new file:   ACE/Release/ACE.log
+#	new file:   ACE/Release/ACE.obj
+#	new file:   ACE/Release/ACE.pch
+#	new file:   ACE/Release/ACE.tlog/ACE.lastbuildstate
+#	new file:   ACE/Release/ACE.tlog/CL.command.1.tlog
+#	new file:   ACE/Release/ACE.tlog/CL.read.1.tlog
+#	new file:   ACE/Release/ACE.tlog/CL.write.1.tlog
+#	new file:   ACE/Release/ACE.tlog/link.command.1.tlog
+#	new file:   ACE/Release/ACE.tlog/link.read.1.tlog
+#	new file:   ACE/Release/ACE.tlog/link.write.1.tlog
+#	new file:   ACE/Release/stdafx.obj
+#	new file:   ACE/Release/vc140.pdb
+#	modified:   Debug/ACE.exe
+#	modified:   Debug/ACE.ilk
+#	modified:   Debug/ACE.pdb
+#	new file:   Release/ACE.exe
+#	new file:   Release/ACE.iobj
+#	new file:   Release/ACE.ipdb
+#	new file:   Release/ACE.pdb
+#	new file:   ipch/ACE-4bce3620/ACE-6339b4d5.ipch
+#	new file:   ipch/ACE-4bce3620/ACE-acf7f78f.ipch
+#	new file:   ipch/ACE-4bce3620/ACE-e6ec63b3.ipch
+#
+
